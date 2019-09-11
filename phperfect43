@@ -1,0 +1,66 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am phperfect43 on github.
+  * I am raymand (https://keybase.io/raymand) on keybase.
+  * I have a public key ASBnjn5E0ZqVQGo8s3pQAykoL3WWnLPq3jH29YHlhNk04Ao
+
+To claim this, I am signing this object:
+
+json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120678e7e44d19a95406a3cb37a500329282f75969cb3eade31f6f581e584d934e00a",
+      "host": "keybase.io",
+      "kid": "0120678e7e44d19a95406a3cb37a500329282f75969cb3eade31f6f581e584d934e00a",
+      "uid": "53bc640750140afde0df02cef233e719",
+      "username": "raymand"
+    },
+    "merkle_root": {
+      "ctime": 1568230334,
+      "hash": "21629d9696c3904c30b1245fd3e339a61e7a874c9250907baedf62653a794e151685b2ce022f9494122446318be0be4d1eb7c57bd98cde7dc2a53e0b2ddc3db5",
+      "hash_meta": "4b2da919968aa53a61fa9c13e4e21cf39ea1b3acbe126d6c0f0b5a6fcd7451a9",
+      "seqno": 6799206
+    },
+    "service": {
+      "entropy": "sjj28hNB/Wj73V6FmlQj/B67",
+      "name": "github",
+      "username": "phperfect43"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.0"
+  },
+  "ctime": 1568230469,
+  "expire_in": 504576000,
+  "prev": "e8ef3fb2ab3a6d2b37c561fcd4777d142567015899faa9aa7d396c3debd57496",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+
+with the key [ASBnjn5E0ZqVQGo8s3pQAykoL3WWnLPq3jH29YHlhNk04Ao](https://keybase.io/raymand), yielding the signature:
+
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgZ45+RNGalUBqPLN6UAMpKC91lpyz6t4x9vWB5YTZNOAKp3BheWxvYWTESpcCBcQg6O8/sqs6bSs3xWH81Hd9FCVnAViZ+qmqfTlsPevVdJbEIPoULeGTTqTSSkakRPPRazwjz95WZfOIzFi+UDQfpPTbAgHCo3NpZ8RAMB44AJ2F3ije2d0ivRxNx9QUF0Z5feHUQ2dTLMZgsGfdeEo4xD13LsL5uZd99rN9iTMWE3Y1AXUVjn+fZbY8D6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIIYoM0Mv2k6vxG3wk7H96pjgnUQwCgAMxxsuM56jEDMxo3RhZ80CAqd2ZXJzaW9uAQ==
+
+
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/raymand
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+bash
+# look me up
+keybase id raymand
